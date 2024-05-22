@@ -1,0 +1,16 @@
+2024/05/22-06:34:53.150 ae03 Reusing MANIFEST /Users/mchamouda/Documents/builds/whatsapp-bot-gpt/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/22-06:34:53.150 ae03 Recovering log #229
+2024/05/22-06:34:53.157 ae03 Reusing old log /Users/mchamouda/Documents/builds/whatsapp-bot-gpt/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000229.log 
+2024/05/22-06:49:48.801 12c33 Level-0 table #236: started
+2024/05/22-06:49:48.852 12c33 Level-0 table #236: 1309439 bytes OK
+2024/05/22-06:49:48.901 12c33 Delete type=0 #229
+2024/05/22-06:50:04.691 12c33 Compacting 1@1 + 3@2 files
+2024/05/22-06:50:04.774 12c33 Generated table #237@1: 46682 keys, 2238629 bytes
+2024/05/22-06:50:04.856 12c33 Generated table #238@1: 39038 keys, 2197109 bytes
+2024/05/22-06:50:04.917 12c33 Generated table #239@1: 43339 keys, 901255 bytes
+2024/05/22-06:50:04.918 12c33 Compacted 1@1 + 3@2 files => 5336993 bytes
+2024/05/22-06:50:04.961 12c33 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/05/22-06:50:04.962 12c33 Delete type=2 #236
+2024/05/22-06:50:04.962 12c33 Delete type=2 #231
+2024/05/22-06:50:04.962 12c33 Delete type=2 #233
+2024/05/22-06:50:04.962 12c33 Delete type=2 #232
