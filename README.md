@@ -1,7 +1,3 @@
-Here's the revised README for your "whatsapp-ai-bot" project:
-
----
-
 # WhatsApp AI Bot
 
 Welcome to the **WhatsApp AI Bot**! This project leverages the power of Node.js, wwebjs.dev, and OpenAI's GPT-4 model to create an intelligent and versatile chatbot for WhatsApp.
